@@ -5,9 +5,9 @@
 
 - 🌱 I’m starting to learn **AWS and Testing with react**
 
-- 👨‍💻 The projects I am most proud of can be found at [https://bryanmtz.com](https://bryanmtz.com)
+- 👨‍💻 The projects I am most proud of can be found at [https://bryanmtz.com](https://www.bryanmtz.com)
 
-- 📝 I regularly write about the apps i built on twitter [https://twitter.com/bryanmtzw](https://twitter.com/bryanmtzw)
+- 📝 I regularly write about the apps i built on twitter [https://twitter.com/bryanmtzw](https://www.twitter.com/bryanmtzw)
 
 - 📫 How to reach me **Bryan.mtzs@gmail.com**
 
