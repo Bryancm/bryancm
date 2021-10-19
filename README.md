@@ -9,7 +9,7 @@
 
 - 📝 I regularly write about the apps i built on twitter [https://twitter.com/bryanmtzw](https://twitter.com/bryanmtzw)
 
-- 📫 How to reach me **Bryan.mtzs@gmail.com**
+- 📫 How to reach me **bryanmtzw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
