@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sakuga Mobile**
 
-- 🌱 I’m starting to learn **AWS and Testing with react**
+- 🌱 I’m starting to learn **Native modules and testing with react Native**
 
 - 👨‍💻 The projects I am most proud of can be found at [https://www.bryanmtz.com/](https://www.bryanmtz.com/)
 
